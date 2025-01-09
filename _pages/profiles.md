@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /Affilations/
+title: Affilations
+description: Groups related to or supporting my work
 nav: true
 nav_order: 7
 
