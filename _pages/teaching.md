@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: A collection of courses I have supported as Graduate Teaching Assistant.
 nav: true
 nav_order: 6
@@ -31,6 +31,9 @@ Week-long residential field course ran by the University at Snowdonia Aerospace 
   <img src="/assets\img\AFC_3_alt.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
 </div>
 
+<div style="margin-top: 20px; text-align: center;">
+  <img src="/assets\img\AFC_Week2_Group.JPG" alt="Wide Image 4" style="width: calc(100% - 30px); max-width: 100%; margin: 0px;">
+</div>
 
 ---
 

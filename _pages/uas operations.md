@@ -1,9 +1,9 @@
 ---
 layout: page
-title: UAS operations
+title: UAS Operations
 permalink: /uas/
 description: Various places I've flown things
-nav: true
+nav: false
 nav_order: 9
 ---
 

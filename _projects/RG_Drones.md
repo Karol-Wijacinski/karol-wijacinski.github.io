@@ -1,16 +1,18 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Development of Reduced Gravity Testing Capabilities Using UAS
+description: PhD, 2022-2026
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I started this project in September 2022, with an aim of gaining an understanding of the use of UAS as a platform for reduced gravity experiments, as well as the reduced gravity field as a whole.
+
+Throughout this, I have been able to identify the gap that UAS, particularly multirotors, fill within the reduced gravity field. Modelling of multirotors has taken place, and the requirements for multirotors to perform such manoeuvres have been identified.
+
+More information will be added here as this project progresses.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

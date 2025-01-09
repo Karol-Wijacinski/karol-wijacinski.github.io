@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /organisations/
-title: organisations
+title: Organisations
 description: Groups related to or supporting my work
 nav: true
 nav_order: 10

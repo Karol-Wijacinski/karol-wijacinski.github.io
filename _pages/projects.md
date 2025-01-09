@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects 
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Various projects including research, UAS operations and hobbies.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Research, UAS Operations]
 horizontal: false
 ---
 
