@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Manchester-based researcher focused on understanding and harnessing the capabilities of flight and autonomous systems for innovative applications.
+Manchester-based researcher focused on development and novel application of uncrewed systems.
 
-3rd Year PhD on the Development of Reduced Gravity Testing Capability Using Uncrewed Aerial Systems at the University of Manchester.
+3rd Year of PhD on the Development of Reduced Gravity Testing Capability Using Uncrewed Aerial Systems at the University of Manchester.
 
 
 
